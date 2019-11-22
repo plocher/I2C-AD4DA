@@ -1,7 +1,6 @@
 title: I2C-AD4DA
 project: I2C-AD4DA
 designer: John Plocher
-fabricated: yes
-fab_date: 2018-07
-status: released
+fabricated: no
+status: experimental
 release: yes

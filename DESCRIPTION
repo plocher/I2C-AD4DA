@@ -1,5 +1,5 @@
 I2C 4x A/D 1x  D/A I/O expander based on a PCF8591T
 
-  * Convert to SPCoast preferred board style (3.17" Tyco mounting track plus carrier)
+  * Merged with LightUI sliders to make a self contained track mountable lighting controller
 
 
