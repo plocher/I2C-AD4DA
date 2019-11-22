@@ -1,6 +1,5 @@
 I2C 4x A/D 1x  D/A I/O expander based on a PCF8591T
 
-  * Added decoupling caps to A/D inputs, filter caps to power supply, inductor between VDD and REF
-
+  * Convert to SPCoast preferred board style (3.17" Tyco mounting track plus carrier)
 
 
