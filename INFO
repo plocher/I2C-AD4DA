@@ -4,3 +4,5 @@ designer: John Plocher
 fabricated: no
 status: experimental
 release: yes
+image_path: I2C-AD4DA-LightUI-V3-Graphic.png
+tags: [eagle, SPCoast]
