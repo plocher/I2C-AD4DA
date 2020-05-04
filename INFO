@@ -5,4 +5,4 @@ fabricated: no
 status: experimental
 release: yes
 image_path: I2C-AD4DA-LightUI-V3-Graphic.png
-tags: [eagle, SPCoast]
+tags: [eagle, SPCoast, I2C, Lighting]
