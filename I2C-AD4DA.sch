@@ -8882,9 +8882,9 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND6" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="A2" library="SPCoast" deviceset="JUMPER-3" device="1-2"/>
-<part name="A1" library="SPCoast" deviceset="JUMPER-3" device="1-2"/>
-<part name="A0" library="SPCoast" deviceset="JUMPER-3" device="1-2"/>
+<part name="A2" library="SPCoast" deviceset="JUMPER-3" device="1-2" value="SJ"/>
+<part name="A1" library="SPCoast" deviceset="JUMPER-3" device="1-2" value="SJ"/>
+<part name="A0" library="SPCoast" deviceset="JUMPER-3" device="1-2" value="SJ"/>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="L1" library="SPCoast" deviceset="L-US" device="L2012C" value="47 uH"/>
 <part name="LOGO1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="L" value="DOC-OSHW-LOGO-L"/>
@@ -8895,7 +8895,7 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <part name="CD" library="SPCoast" deviceset="CAP*" device="0805" value="0.1uF"/>
 <part name="U$1" library="SPCoast" deviceset="AGND+DGND" device=""/>
 <part name="GND4" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="BOARD1" library="SPCoast" deviceset="BOARD" device="80X100"/>
+<part name="BOARD1" library="SPCoast" deviceset="BOARD" device="80X100" value="10x10"/>
 <part name="CON1" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
 <part name="CON2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
