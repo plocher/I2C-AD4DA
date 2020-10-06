@@ -9724,10 +9724,10 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <part name="CON2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="FRAME2" library="SPCoast-minimal" deviceset="FRAME-LETTER" device=""/>
-<part name="U$2" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM" value="R-SLIDE-POT-45MM"/>
-<part name="U$3" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM"/>
-<part name="U$4" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM"/>
-<part name="U$7" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM"/>
+<part name="U$2" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM" value="10K"/>
+<part name="U$3" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM" value="10K"/>
+<part name="U$4" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM" value="10K"/>
+<part name="U$7" library="SPCoast" deviceset="R-SLIDE-POT" device="-45MM" value="10K"/>
 <part name="SUPPLY4" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="SUPPLY8" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="SUPPLY9" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
